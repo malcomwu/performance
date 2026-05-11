@@ -4,7 +4,7 @@ On the line music conference
 ## Usage
 ...
 
-# Development
+## Development
 
 **To build + test:**
 1. sudo apt install libopus-dev libspeexdsp-dev
