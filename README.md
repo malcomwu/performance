@@ -1,10 +1,11 @@
-# performance
+# performance v0.1.0
 On the line music conference
 
 ## Usage
-...
+
 
 ## Development
+Codename: 'work'
 
 **To build + test:**
 1. sudo apt install libopus-dev libspeexdsp-dev
